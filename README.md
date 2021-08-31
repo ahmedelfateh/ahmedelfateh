@@ -50,3 +50,11 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6f
 <a href="https://www.linkedin.com/in/ahmedelfateh/"><img  width="60px" alt="ahmedelfateh | LinkedIn" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/linkedin.svg">
 </a>
 </p>
+
+<a href="https://github.com/ahmedelfateh/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedelfateh&count_private=true&show_icons=true&theme=radical&hide_border=false" />
+</a> 
+<a href="https://github.com/ahmedelfateh/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelfateh&layout=compact&theme=radical&hide_border=false" />
+</a>
+
