@@ -11,6 +11,8 @@ I'm Ahmed Elfateh, a Backend Engineer from Cairo, Egypt.
 -   🚢  Shipping softwares in Docker on Prem and on the Cloud.
 -   🧗‍ Learning competitive programming / problem solving.
 -   I love to work with apple, and play with Linux penguin.
+-   Reading and Listening. [My Shelve 📚](https://ahmedelfateh.github.io/book-list/)
+
 
 🤔 Iam interested in Web Development, Building devtools, Automation, DevOps, and Cloud Technologies.
 
