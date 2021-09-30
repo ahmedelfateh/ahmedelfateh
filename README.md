@@ -42,6 +42,12 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6f
 <img align="left" alt="Docker" width="26px" 
 src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/docker-icon.svg" />
 
+<img align="left" alt="Graphql" width="26px" 
+src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/graphql.svg" />
+
+<img align="left" alt="Postman" width="26px" 
+src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/postman-icon.svg" />
+
 <br />
 
 ---
